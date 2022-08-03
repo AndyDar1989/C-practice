@@ -1,0 +1,15 @@
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.AssemblyInfoInputs.cache
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.AssemblyInfo.cs
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\Examples\example04\bin\Debug\net6.0\example04.exe
+C:\Users\андрей\Desktop\Examples\example04\bin\Debug\net6.0\example04.deps.json
+C:\Users\андрей\Desktop\Examples\example04\bin\Debug\net6.0\example04.runtimeconfig.json
+C:\Users\андрей\Desktop\Examples\example04\bin\Debug\net6.0\example04.dll
+C:\Users\андрей\Desktop\Examples\example04\bin\Debug\net6.0\example04.pdb
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.dll
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\refint\example04.dll
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.pdb
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\example04.genruntimeconfig.cache
+C:\Users\андрей\Desktop\Examples\example04\obj\Debug\net6.0\ref\example04.dll
